@@ -1,6 +1,6 @@
 - # qb-helpermenu
-- ###qb-adminmenu maded by [qbcore](https://discord.gg/qbcore "qbcore") edited version
-- ###there is some reduced features in the helpermenu 
+- ### qb-adminmenu maded by [qbcore](https://discord.gg/qbcore "qbcore") edited version
+- ### there is some reduced features in the helpermenu 
 - **to give yourself helper perm you need to add this**
 - **add_principal identifier.license:0001a936195b55f254698846f4aa8c5cf66a7f50 qbcore.helper**
 - **Or give in the permissions table by adding helper in the rank**
