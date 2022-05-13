@@ -1,4 +1,3 @@
-# qb-helpermenu
 ###qb-adminmenu maded by [qbcore](https://discord.gg/qbcore "qbcore") edited version
 ###there is some reduced features in the helpermenu 
 **to give yourself helper perm you need to add this**
