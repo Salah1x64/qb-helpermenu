@@ -11,7 +11,7 @@
 - ![Showcase](https://media.discordapp.net/attachments/961405217465827338/975496767812558900/unknown.png)
 
 **By buying pet from the ped shop you can use /petmenu or "O" And Control your pet and check pet status**
-- ** you can not afroad dog if you dont have dog license , but you can buy cat without it**
+- **you can not bought dog if you dont have dog license , but you can buy cat without it**
 - ![Showcase](https://media.discordapp.net/attachments/961405217465827338/975496767812558900/unknown.png)
 ## K9
 **For the k9 , if you are police officer you can buy k9 dog from the petshop .**
