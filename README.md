@@ -1,13 +1,21 @@
-- # qb-helpermenu
-- ### qb-adminmenu maded by [qbcore](https://discord.gg/qbcore "qbcore") edited version
-- ### there is some reduced features in the helpermenu 
-- **to give yourself helper perm you need to add this**
-- **add_principal identifier.license:0001a936195b55f254698846f4aa8c5cf66a7f50 qbcore.helper**
-- **Or give in the permissions table by adding helper in the rank**
-- ![Showcase](https://media.discordapp.net/attachments/970131826498748467/972851050375692328/Screenshot_2022-05-08_132101.png)
+# Astro Pets
+### Script can be used as cop (k9) or citizen
 
-- ![Showcase](https://media.discordapp.net/attachments/970131826498748467/972851823738228766/unknown.png)
-- ### Some Other Pictures
-- ![Showcase](https://media.discordapp.net/attachments/970131826498748467/972853114996686948/unknown_1.jpg)
+- ![Showcase](https://media.discordapp.net/attachments/961405217465827338/975492159182610532/unknown.png?width=400&height=250)
+## Dependencies
+**[Pet Shop MLO](https://fr.gta5-mods.com/maps/mlo-pet-shop "Pet Shop MLO") **
+**qb-menu**
+**oxmysql**
+**qb-target**
+## How its work
+- ![Showcase](https://media.discordapp.net/attachments/961405217465827338/975496767812558900/unknown.png)
 
-- ![Showcase](https://media.discordapp.net/attachments/970131826498748467/972853920525348864/unknown_2.jpg)
+**By buying pet from the ped shop you can use /petmenu or "O" And Control your pet and check pet status**
+- ** you can not afroad dog if you dont have dog license , but you can buy cat without it**
+- ![Showcase](https://media.discordapp.net/attachments/961405217465827338/975496767812558900/unknown.png)
+## K9
+**For the k9 , if you are police officer you can buy k9 dog from the petshop . **
+- **And if you want your dog to attack some1 , aim and press G**
+- **For Searching Aim and press H**
+
+- ![Showcase](https://cdn.discordapp.com/attachments/961405217465827338/975498261181894706/unknown.png)
