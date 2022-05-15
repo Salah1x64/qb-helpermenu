@@ -3,10 +3,10 @@
 
 - ![Showcase](https://media.discordapp.net/attachments/961405217465827338/975492159182610532/unknown.png?width=400&height=250)
 ## Dependencies
-**[Pet Shop MLO](https://fr.gta5-mods.com/maps/mlo-pet-shop "Pet Shop MLO")**
-**qb-menu**
-**oxmysql**
-**qb-target**
+- **[Pet Shop MLO](https://fr.gta5-mods.com/maps/mlo-pet-shop "Pet Shop MLO")**
+- **qb-menu**
+- **oxmysql**
+- **qb-target**
 ## How its work
 - ![Showcase](https://media.discordapp.net/attachments/961405217465827338/975496767812558900/unknown.png)
 
